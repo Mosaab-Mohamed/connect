@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.07c98e3e.css",
+    "main.js": "./static/js/main.d3a5ce49.js",
+    "static/media/auth_bg.jpg": "./static/media/auth_bg.837d87309b4722190b80.jpg",
+    "static/media/Philosopher-BoldItalic.woff": "./static/media/Philosopher-BoldItalic.8026ce54a06fd8155e34.woff",
+    "static/media/Philosopher-Italic.woff": "./static/media/Philosopher-Italic.3a239b6a7c5ef43ae6b3.woff",
+    "static/media/Philosopher-Regular.woff": "./static/media/Philosopher-Regular.250254a2fb7c785ebb74.woff",
+    "static/media/Philosopher-Bold.woff": "./static/media/Philosopher-Bold.1d1aa29240c7498cc338.woff",
+    "static/media/Philosopher-BoldItalic.woff2": "./static/media/Philosopher-BoldItalic.72f0a3869d8ac4bb2a3b.woff2",
+    "static/media/Philosopher-Italic.woff2": "./static/media/Philosopher-Italic.05d436790dde8b5dc8cf.woff2",
+    "static/media/Philosopher-Regular.woff2": "./static/media/Philosopher-Regular.1f69d9637d1882898044.woff2",
+    "static/media/Philosopher-Bold.woff2": "./static/media/Philosopher-Bold.59e9c8e4237fdeae25ed.woff2",
+    "index.html": "./index.html",
+    "main.07c98e3e.css.map": "./static/css/main.07c98e3e.css.map",
+    "main.d3a5ce49.js.map": "./static/js/main.d3a5ce49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07c98e3e.css",
+    "static/js/main.d3a5ce49.js"
+  ]
+}
