@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2862d056.css",
+    "main.js": "./static/js/main.07573988.js",
+    "static/js/937.4feef679.chunk.js": "./static/js/937.4feef679.chunk.js",
+    "static/media/auth_bg.jpg": "./static/media/auth_bg.837d87309b4722190b80.jpg",
+    "static/media/Tajawal-Bold.woff": "./static/media/Tajawal-Bold.c9ebea9477bdb23e10a7.woff",
+    "static/media/Tajawal-Regular.woff": "./static/media/Tajawal-Regular.1b10011bda4eec783036.woff",
+    "static/media/Tajawal-Medium.woff": "./static/media/Tajawal-Medium.dacb13f18eadf31baaa1.woff",
+    "static/media/Tajawal-Light.woff": "./static/media/Tajawal-Light.f0917e300a6ea6fdfe47.woff",
+    "static/media/Tajawal-Bold.woff2": "./static/media/Tajawal-Bold.921c8139caa7a8f4bbe5.woff2",
+    "static/media/Tajawal-Regular.woff2": "./static/media/Tajawal-Regular.8dcfe2da4aec2b44ee4f.woff2",
+    "static/media/Tajawal-Medium.woff2": "./static/media/Tajawal-Medium.835b9def2f1fb8e397d5.woff2",
+    "static/media/Tajawal-Light.woff2": "./static/media/Tajawal-Light.55646a086161bf9ea40f.woff2",
+    "index.html": "./index.html",
+    "main.2862d056.css.map": "./static/css/main.2862d056.css.map",
+    "main.07573988.js.map": "./static/js/main.07573988.js.map",
+    "937.4feef679.chunk.js.map": "./static/js/937.4feef679.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2862d056.css",
+    "static/js/main.07573988.js"
+  ]
+}
